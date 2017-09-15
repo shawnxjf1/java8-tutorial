@@ -3,6 +3,8 @@ package com.winterbe.java8.samples.stream;
 import java.util.Optional;
 import java.util.function.Supplier;
 
+
+//FIXME  Optional 与Stream的关系<br>
 /**
  * Examples how to avoid null checks with Optional:
  *
